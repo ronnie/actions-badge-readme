@@ -20,7 +20,7 @@ inputs:
 
   CREDLY_USER:
     description: "User name used in Credly"
-    default: ${{ github.actor }}
+    default: ronnieutd
     required: false
   
   CREDLY_SORT:
